@@ -23,7 +23,7 @@ Michela Francesca Firrera 02022A
 - Introduzione format alternativo
     - Slide che mostra il format Sprint: FP1, Q1, Q2, Q3, SQ1, SQ2, SQ3, SR, R
     - Come cambia l'analisi di un GP nei format Sprint?
-        ...
+        
 - Conclusione
 
 ### Fonti
