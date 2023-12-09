@@ -1,4 +1,4 @@
-# Progetto Visualizzazione Scientifica - Prima Versione
+# Progetto Visualizzazione Scientifica - Versione Finale
 ### Autori 
 Simone Alessandro Casciaro 987303<br>
 Michela Francesca Firrera 02022A
