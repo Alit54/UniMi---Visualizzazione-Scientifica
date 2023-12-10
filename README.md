@@ -57,4 +57,3 @@ Michela Francesca Firrera 02022A
 - Foto
     - Monza: Simone Alessandro Casciaro
     - Austin: Alessandro Cellegato
-    
